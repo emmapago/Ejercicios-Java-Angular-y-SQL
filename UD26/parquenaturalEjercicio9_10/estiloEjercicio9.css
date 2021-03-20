@@ -1,0 +1,51 @@
+body { width: 900px; 
+} 
+
+h1{
+    font-family: "Lucida Sans Unicode"; color: rgb(40, 197, 40); text-align: center; letter-spacing: 5px;
+}
+span{
+    color:rgb(252, 179, 45); font-family: "Lucida Sans Unicode"; text-align: center; letter-spacing: 10px;
+}
+#fondo{
+     height: 750px; margin-left: 0px; margin-right: 0px; background: white; border-radius: 20px; border: gray 5px solid;
+}
+div{
+    border: 1px solid #5e5e5e; margin-left: 175px; margin-right: 20px; background: linear-gradient(to bottom,rgb(184, 183, 183), white, rgb(184, 183, 183));
+}
+h2{
+    color: rgb(40, 197, 40); font-family: "Lucida Sans Unicode"; margin-left: 20px;
+}
+hr {
+    height: 1px solid #5e5e5e; margin-left: 20px; margin-right: 20px;
+  }
+h3{
+    color:rgb(252, 179, 45); font-family: "Lucida Sans Unicode"; margin-left: 20px; margin-right: 20px;
+}
+p{
+    color: black; font-family: "Lucida Sans Unicode"; margin-left: 20px; margin-right: 20px; font-size: 15px; text-align: justify;
+}
+ul{
+    font-family: "Lucida Sans Unicode"; font-size: 15px; float:left; margin-left: 20px; text-align: center;
+}
+.vertical-menu {
+    width: 200px;
+  }
+  
+.vertical-menu a {
+    background: linear-gradient(to bottom, white, rgb(40, 197, 40)); color: black; display: block; padding: 12px; text-decoration: none; 
+  }
+  
+.vertical-menu a:hover {
+    background-color: #ccc; 
+  }
+  
+.vertical-menu a.active {
+    background-color: #f7da7d; color: black;
+  }
+img{
+    display:block; margin:auto;
+}
+h4 {
+     color: gray; text-align: center; font-size: 12px;
+}

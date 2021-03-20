@@ -1,0 +1,24 @@
+h1{
+    font-family: "Lucida Sans Unicode"; color: rgb(40, 197, 40); text-align: center; letter-spacing: 5px;
+}
+span{
+    color:rgb(252, 179, 45); font-family: "Lucida Sans Unicode"; text-align: center; letter-spacing: 10px;
+}
+div{
+    border: 1px solid #5e5e5e; margin-left: 200px; margin-right: 20px;
+}
+h2{
+    color: rgb(40, 197, 40); font-family: "Lucida Sans Unicode"; margin-left: 20px;
+}
+hr {
+    height: 1px solid #5e5e5e; margin-left: 20px; margin-right: 20px;
+  }
+h3{
+    color:rgb(252, 179, 45); font-family: "Lucida Sans Unicode"; margin-left: 20px; margin-right: 20px;
+}
+p{
+    color: black; font-family: "Lucida Sans Unicode"; margin-left: 20px; margin-right: 20px; font-size: 15px; text-align: justify;
+}
+ul{
+    font-family: "Lucida Sans Unicode"; font-size: 15px; float:left; margin-left: 20px;
+}
