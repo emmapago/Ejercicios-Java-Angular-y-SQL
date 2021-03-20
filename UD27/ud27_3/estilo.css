@@ -1,0 +1,21 @@
+caption{
+    text-align: center; color: black; font-weight: bold;
+}
+table{
+    text-align: center; width:35%;border: 1px solid black;
+}
+th{
+    color:black; border: 1px solid black; background-color: greenyellow;padding: 5px;  font-weight: bold;
+}
+td{
+    color: black;border: 1px solid black; background-color: white; text-align: center; font-weight: bold;
+}
+#color1{
+    background-color: cadetblue; text-align: left; font-weight: bold;
+}
+#color2{
+    background-color: pink; text-align: right; font-weight: bold;
+}
+#color3{
+    color: red; text-align: center; font-weight: bold;
+}

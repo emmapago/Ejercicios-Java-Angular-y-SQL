@@ -1,0 +1,14 @@
+table{
+    width: 50%;
+	height: 200px;
+}
+th{
+    text-align: left;
+}
+td{
+    text-align: left;
+
+}
+#pais{
+    text-align: center;
+}

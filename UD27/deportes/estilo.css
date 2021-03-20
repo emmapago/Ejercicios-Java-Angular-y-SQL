@@ -1,0 +1,18 @@
+table{
+    text-align: center; width:35%;border: 1px solid black; background-color: rgb(115, 115, 255); color: turquoise;
+}
+th{
+    color:turquoise; border: 1px solid black; background-color: rgb(26, 117, 108);padding: 5px; 
+}
+td{
+    color: black;border: 1px solid black; background-color: turquoise; text-align: left;
+}
+#colorFila{
+    background-color: rgb(49, 184, 166);
+}
+#colorFila1{
+    text-align: center;background-color: rgb(49, 184, 166);
+}
+#centro{
+    text-align: center;
+}

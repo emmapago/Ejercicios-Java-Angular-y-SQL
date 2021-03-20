@@ -1,0 +1,17 @@
+
+table{
+    text-align: center; width:45%;border: 2px solid black; align-content: center;
+}
+th{
+    font-family: arial;font-weight: lighter; background-color: rgb(75, 255, 75); color: rgb(255, 10, 10);
+     border: 1px solid black;padding: 5px;  font-weight: bold; text-align: center;
+}
+td{
+    font-family: arial; color: rgb(255, 10, 10); font-weight: lighter ;border: 1px solid black; text-align: center; 
+}
+#diferencias{
+    background-color: sandybrown;
+}
+#tamaño{
+    background-color: rgb(253, 253, 85);
+}
