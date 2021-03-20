@@ -1,0 +1,12 @@
+alert("Enero"); // Muestra por pantalla los 12 meses del año //
+alert("Febrero"); // Muestra por pantalla los 12 meses del año //
+alert("Marzo"); // Muestra por pantalla los 12 meses del año //
+alert("Abril"); // Muestra por pantalla los 12 meses del año //
+alert("Mayo"); // Muestra por pantalla los 12 meses del año //
+alert("Junio"); // Muestra por pantalla los 12 meses del año //
+alert("Julio"); // Muestra por pantalla los 12 meses del año //
+alert("Agosto"); // Muestra por pantalla los 12 meses del año //
+alert("Septiembre"); // Muestra por pantalla los 12 meses del año //
+alert("Octubre"); // Muestra por pantalla los 12 meses del año //
+alert("Noviembre"); // Muestra por pantalla los 12 meses del año //
+alert("Diciembre"); // Muestra por pantalla los 12 meses del año //
